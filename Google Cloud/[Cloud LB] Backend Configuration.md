@@ -1,5 +1,7 @@
 # Backend Overview
 
+A backend in a Cloud Load Balancer is the actual set of endpoints that'll receive traffic from the load balancer
+
 * Defines how traffic is distributed
 * Specifies which health check to use
 * Indicates if session affinity is used
@@ -7,13 +9,13 @@
 
 <br>
 
-# Backend Types 
+# Backend Services
 
-## Backend Services
+## Instance Groups
 
-### MIGs
+## Network Endpoint Groups
 
-### NEGs
+A NEG is a logical group of individual network endpoints that a load balancer can send traffic to
 
 * A configuration object that specifies a group of backend endpoints or services (Commonly used for deploying services in GKE)
 
