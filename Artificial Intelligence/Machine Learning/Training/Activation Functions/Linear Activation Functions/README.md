@@ -1,1 +1,0 @@
-# Linear Activation Function Overview

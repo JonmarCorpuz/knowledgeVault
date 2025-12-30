@@ -1,1 +1,0 @@
-# Artificial Neural Network Overview

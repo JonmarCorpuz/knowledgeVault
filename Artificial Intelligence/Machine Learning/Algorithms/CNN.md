@@ -1,1 +1,0 @@
-# Convolutional Neural Network Algorithm Overview
